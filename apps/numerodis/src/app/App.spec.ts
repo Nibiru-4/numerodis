@@ -5,6 +5,6 @@ import App from './App.vue';
 describe('App', () => {
   it('renders properly', async () => {
     const wrapper = mount(App, {});
-    expect(wrapper.text()).toContain('Welcome @org/numerodis 👋');
+    expect(wrapper.text()).toContain('Numerodis from app.vue');
   });
 });

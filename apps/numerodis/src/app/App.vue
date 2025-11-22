@@ -1,7 +1,6 @@
 <script setup lang="ts">
-import NxWelcome from './NxWelcome.vue';
 </script>
 
 <template>
-  <NxWelcome title="@org/numerodis" />
+  <h1>Numerodis from app.vue</h1>
 </template>
